@@ -1,0 +1,13 @@
+name = "friends-smp"
+author = "droopydefect478"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "eebfbae342952ab03c8823cfaed08efc86e0bc94c9e3d2d1ab881a8bd50b2557"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"
